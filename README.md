@@ -1,1 +1,0 @@
-# AISD2sem_lab2
